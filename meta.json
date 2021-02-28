@@ -1,0 +1,15 @@
+{
+    "aternos": {
+        "username": "   ",
+        "password": "   "
+    },
+    "google": {
+        "gmail": "if you use your google account to sign in to aternos, put it here and set account type to \"google\"",
+        "password": ""
+    },
+    "account type": "aternos",
+    "game role": "    ",
+    "prefix": ">",
+
+    "token": "ODE0ODgyMTY0MTI2MjUzMDc2.YDkUJw.-9u8kPJXFzgZwBzTpOH_MZu_BiA"
+}
